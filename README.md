@@ -21,7 +21,7 @@ Here’s a quick look at the Resume Builder interface 👇
 
 | Home Page | Resume Preview |
 |------------|----------------|
-| ![Home UI](./Images/img1.png) | ![Resume Preview](./Images/img2.png) |
+| ![Resume Preview](./Images/img1.png) | ![Home UI](./Images/img2.png) |
 
 | Template Selection | Download Page |
 |--------------------|---------------|
