@@ -15,6 +15,19 @@ The app also supports **persistent user data** — every user’s information is
 ✅ **Simple and Clean UI** – Designed with Chakra UI and React for a modern look and smooth experience.
 
 ---
+## 🖥️ UI Section
+
+Here’s a quick look at the Resume Builder interface 👇
+
+| Home Page | Resume Preview |
+|------------|----------------|
+| ![Home UI](./Images/img1.png) | ![Resume Preview](./Images/img2.png) |
+
+| Template Selection | Download Page |
+|--------------------|---------------|
+| ![Template Selection](./Images/img3.png) | ![Download Page](./Images/img4.png) |
+
+---
 
 ## 🧠 Tech Stack
 
